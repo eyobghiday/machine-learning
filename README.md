@@ -7,7 +7,7 @@ In this project I tend to cover the the use of machine learning for different pr
 ## Objectives
 
 1. Association Rules
-2. Clustering*
+2. Clustering* (K Star and Heuristics)
 3. Decision Trees
 4. Multinomial Logistic Regression*
 5. Feature Selection
