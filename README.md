@@ -16,6 +16,7 @@ In this project I tend to cover the the use of machine learning for different pr
 8. Support Vector Machines
 9. Gradient Boosting
 10. Memory Based Learner
+11. Kolmogorov-Smirnov Curve
 
 After you have imported the CSV files, please discover association rules using this dataset. For your information, the observations have been sorted in ascending order by Customer and then by Item. Also, duplicated items for each customer have been removed.
 
