@@ -80,7 +80,7 @@ def compute_lift_coordinates (
     return(LiftCoordinates, accLiftCoordinates)
 
 # Read the HMEQ data
-hmeq = pandas.read_csv('C:\\Users\\minlam\\Documents\\IIT\\Machine Learning\\Data\\hmeq.csv',
+hmeq = pandas.read_csv('hmeq.csv',
                        delimiter=',', usecols = ['BAD', 'DEBTINC', 'DELINQ', 'DEROG'])
 
 # Drop all NaN values in BAD column
