@@ -3,7 +3,7 @@ import numpy
 import pandas
 from sklearn.neighbors import KNeighborsRegressor
 
-toy_example = pandas.read_csv("C:\\MScAnalytics\\Data Mining Principles\\Data\\Week 2 Toy Example.csv", header = 0)
+toy_example = pandas.read_csv("ToyExample.csv", header = 0)
 
 # Specify the data
 X = toy_example[['x1', 'x2']]
