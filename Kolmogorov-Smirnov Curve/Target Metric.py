@@ -1,8 +1,3 @@
-# Name: Week 8 Nominal Target Metric.py
-# Creation Date: February 14, 2022
-# Author: Ming-Long Lam
-# Organization: Illinois Institute of Technology
-
 import numpy
 import pandas
 
