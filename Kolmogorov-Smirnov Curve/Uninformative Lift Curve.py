@@ -76,7 +76,7 @@ def compute_lift_coordinates (
     return(LiftCoordinates, accLiftCoordinates)
 
 # Read the HMEQ data
-UnInform = pandas.read_csv('C:\\IIT\\Machine Learning\\Data\\uninformative.csv',
+UnInform = pandas.read_csv('uninformative.csv',
                            delimiter=',', usecols = ['Response', 'PredProb'])
 
 UnInform.groupby('Response').describe()
