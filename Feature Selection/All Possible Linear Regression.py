@@ -1,15 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Ming-Long Lam, Ph.D.
-@organization: Illinois Institute of Technology
-"""
+
 import numpy
 import pandas
 import sys
 
 import itertools
 
-sys.path.append('C:\\IIT\\Machine Learning\\Job')
+sys.path.append('C:\Machine Learning\\Job')
 import Utility
 
 # Set some options for printing all the columns
