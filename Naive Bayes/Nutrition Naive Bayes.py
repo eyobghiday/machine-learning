@@ -33,7 +33,7 @@ feature = ['tv', 'magazine', 'friends', 'doctor']
 target = 'supps'
 
 # Read the Excel file
-nutrition = pandas.read_excel('C:\\IIT\\Machine Learning\\Data\\Nutrition_Information.xls',
+nutrition = pandas.read_excel('Nutrition_Information.xls',
                               sheet_name = 'Sheet1',
                               usecols = feature + [target])
 nutrition = nutrition.dropna()
