@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Ming-Long Lam, Ph.D.
-@organization: Illinois Institute of Technology
-"""
 import matplotlib.pyplot as plt
 import numpy
 import pandas
