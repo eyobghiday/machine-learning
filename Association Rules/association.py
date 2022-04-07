@@ -21,7 +21,7 @@ from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
 
-file1 = "C:\\Users\\saina\\OneDrive\\Desktop\\ML assign2\\Groceries.csv"
+file1 = "Groceries.csv"
 
 df = pd.read_csv(file1)
 item_group = df.groupby(['Customer'])['Item'].apply(list).values.tolist()
@@ -92,7 +92,7 @@ print("Association rules with confidence >= 60% \n",assoc_rules_60.loc[:,['antec
 
 #Question 2
 
-file2 = "C:\\Users\\saina\\OneDrive\\Desktop\\ML assign2\\cars.csv"
+file2 = "cars.csv"
 df4 = pd.read_csv(file2)
 cars_df = df4.loc[:,['Type','Origin','DriveTrain','Cylinders']]
 
@@ -160,7 +160,7 @@ print(n)
 
 #Question 3
 
-file3 = "C:\\Users\\saina\\OneDrive\\Desktop\\ML assign2\\FourCircle.csv"
+file3 = "FourCircle.csv"
 
 #g
 print("Clusters based on your visual inspection are ")
