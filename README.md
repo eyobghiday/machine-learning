@@ -2,7 +2,7 @@
 
 The term Machine Learning was coined by Arthur L. Samuel (1901 – 1990) in his 1959 paper. It's a field of study that gives computers the ability to learn without being explicitly programmed. A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.
 
-In this project I tend to cover the the use of machine learning for different projects I do in school and work. 
+In this project I tend to cover the the use of machine learning for different projects I do in school and work. Proceed with caution. 
 
 ## Objectives
 
