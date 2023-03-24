@@ -31,3 +31,6 @@ Apply the K-mean algorithm directly using your number of clusters that you think
 ![](src/Picture4.png)
 
 Find out the association rules whose Confidence metrics are greater than or equal to 1%. Please be reminded that a rule must have a non-empty antecedent and a non-empty consequent. Total number of association rules should be 1200. After that plot the Support metrics on the vertical axis against the Confidence metrics on the horizontal axis for the rules you have found. Use the Lift metrics to indicate the size of the marker.
+
+### Questions?
+For questions, comments, edit and changes, please contact me. Or tag my username <b> @eyobghiday </b> in the code.
